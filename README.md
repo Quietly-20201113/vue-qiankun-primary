@@ -1,5 +1,6 @@
 # vue-qiankun-primary
 
+
 ## Project setup
 ```
 npm install
@@ -22,3 +23,6 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+=======
+尝试搭建以vue2.0为基座的qiankun
+
